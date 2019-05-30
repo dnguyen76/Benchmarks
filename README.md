@@ -4,7 +4,7 @@ Benchmark ESP32 versus ATMEGA328
 
 Rapport de puissance entre ESP32 et ATMEGA 328 : Comparaison_Calcul.ino  et Comparaison_Calcul_Nano.ino
 
-Pour tester la puissance de ces 2 processeurs, est effectué 1000 fois le calcul de la somme des carrées des nombres entiers de 1 à 1000 (12 + 22 +32 +42 +….+.9992 +10002 ) 
+Pour tester la puissance de ces 2 processeurs, est effectué 1000 fois le calcul de la somme des carrées des nombres entiers de 1 à 1000 (1*1 + 2*2 + 3*3 + 4*4 +….+ 999*999 + 1000*1000 ) 
 
 Afin de vérifier l’absence d’erreur dans le code, le résultat à obtenir pour la somme des carrés est  333833500 
 
