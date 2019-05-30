@@ -1,5 +1,6 @@
 # Benchmarks
 Benchmark ESP32 versus ATMEGA328
+--------------------------------
 
 Rapport de puissance entre ESP32 et ATMEGA 328 : Comparaison_Calcul.ino  et Comparaison_Calcul_Nano.ino
 
@@ -17,5 +18,7 @@ Répéter 1000 fois
 Fin Répéter
 
 Utilisation des 2 coeurs ESP32 Comparaison_Calcul_dual_core.ino 
---------------------------------------------------------------------------------------------------------------------------
+
 Benchmark dhrystone : Dhrystone_benchmark.ino pour carte Arduino Nano et Dhrystone_benchmark_dual_core.ino pour ESP32
+-----------------------------------------------------------------------------------------------------------------------
+Voir les fichiers Dhrystone_benchmark.ino et Dhrystone_benchmark_dual_core.ino
